@@ -1,3 +1,3 @@
 # cleandata
 
-Run the run_analysis.R script to ge a clean dataset
+Run the run_analysis.R script to get a clean dataset
