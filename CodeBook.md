@@ -1,0 +1,3 @@
+Gets the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip as described in http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and extracts all means for all mean and std variables per subject and activity.
+
+The script downloads the zip, unzips it, loads all the data for train and test sets combined, and performs the analytics using the plyr library.
